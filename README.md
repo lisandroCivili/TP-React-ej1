@@ -1,8 +1,11 @@
-# React + Vite
+# Hello World con React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Primer ejercicio realizado con React donde creo mi primer componente
 
-Currently, two official plugins are available:
+## Link al sitio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Hello World con React]()
+
+## Autor
+
+Lisandro Civili
